@@ -1,1 +1,4 @@
 /*  your css code here. If applicable */
+var currenUrl=window.location.href;
+var length=currenUrl.length;
+alert("The length of the URL is: "+length);
